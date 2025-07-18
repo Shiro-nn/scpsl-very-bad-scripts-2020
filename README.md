@@ -1,6 +1,7 @@
 # scpsl-very-bad-scripts-2020 💀🛠️
 
 ![Stars](https://img.shields.io/github/stars/Shiro-nn/scpsl-very-bad-scripts-2020?style=social) ![Forks](https://img.shields.io/github/forks/Shiro-nn/scpsl-very-bad-scripts-2020?style=social) ![Issues](https://img.shields.io/github/issues/Shiro-nn/scpsl-very-bad-scripts-2020) ![Last commit](https://img.shields.io/github/last-commit/Shiro-nn/scpsl-very-bad-scripts-2020)
+
 ![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=Shiro-nn\&repo=scpsl-very-bad-scripts-2020)
 
 > **scpsl‑very‑bad‑scripts‑2020** — коллекция крайне неаккуратных утилит для автоматизации хостинга *SCP: Secret Laboratory*. Код грубый и далёк от production‑ready, но, возможно, кому‑то пригодятся идеи или сниппеты.
