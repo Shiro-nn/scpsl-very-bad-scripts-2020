@@ -1,0 +1,12 @@
+{
+  "name": "abs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "bin": "script.js",
+  "scripts": {
+    "build": "pkg package.json --options unhandled-rejections=none -t node18-linux-x64"
+  },
+  "author": "",
+  "license": "ISC"
+}
